@@ -73,4 +73,4 @@ const superbowlWin = (arr) => {
     return arr.find(winYear)
 }
 
-console.log(superbowlWin(record))
+console.log(superbowlWin(record));
